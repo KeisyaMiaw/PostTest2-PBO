@@ -9,6 +9,9 @@ Program ini menerapkan CRUD guna mengelola data kos. Data yang disimpan pada pro
 2. Tambah kos
    - User dapat menginput nomor kamar, nama penyewa, status, no telp, dan lantai
    - data disimpan ke ArrayList
+
+<img width="329" height="251" alt="1 tambah" src="https://github.com/user-attachments/assets/2209d649-3c8a-4d47-9999-47fe584fc803" />
+
 3. Tampil Kos
    - JProgram akan mengecek apakah daftar kamar itu kosong
    - Jika ada data, maka program akan menampilkan semua kos dengan toString()
@@ -25,8 +28,6 @@ Program ini menerapkan CRUD guna mengelola data kos. Data yang disimpan pada pro
    - User dikeluarkan dari program dengan output "Anda telah keluar dari program"
 7. Looping
    - Jika user tidak memilih menu 5,maka program akan terus kemali ke menu utama.
-
-
 
 
 
