@@ -41,11 +41,12 @@ Program ini menerapkan CRUD guna mengelola data kos. Data yang disimpan pada pro
 
 <img width="381" height="164" alt="0 keluar" src="https://github.com/user-attachments/assets/fd0a2f9b-44ba-416d-ba8d-a818aa907da4" />
 
-#Package
+# Package
 1. Package model berisi class Kos guna sebagai tempat atribut & struktur dari data kos itu
 2. Package KosService berisi class Service sebagai tempat logika CRUD pada data kos
 3. Package Main berisi Main, ini merupakan titik awal pada program data kos ini, menampilkan menu& memanggil class Service
 
+<img width="329" height="155" alt="image" src="https://github.com/user-attachments/assets/d2f5093b-d481-40aa-b15a-d0b13fdcb747" />
 
 
 
