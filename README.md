@@ -1,7 +1,7 @@
 # PostTest2-PBO
 
 # Deskripsi
-Program ini menerapkan CRUD guna mengelola data kos. Data yang disimpan pada program ini berisi nomor kamar, nama penyewa, status kamar (kosong/terisi), nomor telepon, dan lantai kamar. Prorgram ini menggunakan ArrayList untuk menampung data-data kos. User bisa menambahkan data, melihat data-data, update data, dan juga menghapus data. Dan juga disini say amenambahkan 1 menu baru yaitu menu search/cari yang guna untuk mencari data dari kos itu.
+Program ini menerapkan CRUD guna mengelola data kos. Data yang disimpan pada program ini berisi nomor kamar, nama penyewa, status kamar (kosong/terisi), nomor telepon, dan lantai kamar. Prorgram ini menggunakan ArrayList untuk menampung data-data kos. User bisa menambahkan data, melihat data-data, update data, dan juga menghapus data. Dan juga disini saya amenambahkan 1 menu baru yaitu menu search/cari yang guna untuk mencari data dari kos itu.
 
 # Alur Program
 1. Menu utama ditampilkan
